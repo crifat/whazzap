@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails whazzap: development" uuid="1c96d7a3-8b40-4faa-9f79-e1063534c411">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails whazzap: test" uuid="657cc650-6e6f-49e1-b3f8-c0d0e5ab571d">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails whazzap: production" uuid="9685dff2-2619-4905-97c6-bbbe1fee5cba">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
